@@ -1,0 +1,16 @@
+{
+  "name": "atlpackupdater",
+  "version": "0.1.0",
+  "description": "A script to upload certain folders to the ATLauncher backend and update the XML/JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alan19",
+  "license": "ISC",
+  "dependencies": {
+    "atlauncher-api": "^1.2.0",
+    "zip-folder": "^1.0.0"
+  }
+}
